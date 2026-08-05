@@ -1,0 +1,13 @@
+package org.apache.http.impl.cookie;
+
+/* JADX INFO: loaded from: classes.dex */
+@Deprecated
+public class DateParseException extends Exception {
+    public DateParseException() {
+        throw new RuntimeException("Stub!");
+    }
+
+    public DateParseException(String message) {
+        throw new RuntimeException("Stub!");
+    }
+}

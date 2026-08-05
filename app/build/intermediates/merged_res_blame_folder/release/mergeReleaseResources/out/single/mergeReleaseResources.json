@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "org.tvp.kirikiri2.app-release-4:/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "org.tvp.kirikiri2.app-main-5:/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "org.tvp.kirikiri2.app-release-4:/raw_kirikiri2.txt.flat",
+        "source": "org.tvp.kirikiri2.app-main-5:/raw/kirikiri2.txt"
+    },
+    {
+        "merged": "org.tvp.kirikiri2.app-release-4:/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "org.tvp.kirikiri2.app-main-5:/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "org.tvp.kirikiri2.app-release-4:/layout_launch_screen.xml.flat",
+        "source": "org.tvp.kirikiri2.app-main-5:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "org.tvp.kirikiri2.app-release-4:/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "org.tvp.kirikiri2.app-main-5:/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "org.tvp.kirikiri2.app-release-4:/drawable-hdpi-v4_sd_operate_step.png.flat",
+        "source": "org.tvp.kirikiri2.app-main-5:/drawable-hdpi-v4/sd_operate_step.png"
+    },
+    {
+        "merged": "org.tvp.kirikiri2.app-release-4:/drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "org.tvp.kirikiri2.app-main-5:/drawable-xxhdpi-v4/ic_launcher.png"
+    }
+]

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete 鍵"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"空格鍵"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"與「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="about_content">如果您遇到問題，請訪問我們的網站來獲得支持：</string>
+    <string name="active_not_allow">您的機器無法激活這份應用。</string>
+    <string name="app_name">Kirikiroid2</string>
+    <string name="cancel">取消</string>
+    <string name="crash_report">崩潰報告</string>
+    <string name="crash_report_msg">檢測到崩潰，是否將崩潰檔案(%d個檔案)發送到伺服器以便我們改善本軟體？</string>
+    <string name="crash_report_sending">正在傳送檔案…</string>
+    <string name="debug_mode">開啟調試模式</string>
+    <string name="ensure_delete">確定刪除？</string>
+    <string name="filemenu_delete">刪除</string>
+    <string name="filemenu_enter">進入</string>
+    <string name="filemenu_rename">重命名</string>
+    <string name="filemenu_setbg">設為背景</string>
+    <string name="first_active">本程式尚未激活，請確保網路連接\n然後按OK來更新許可證。</string>
+    <string name="keep_screen_alive">保持屏幕常亮</string>
+    <string name="license">許可證</string>
+    <string name="license_data_damaged">許可證數據已損壞</string>
+    <string name="license_expired">許可證已經過期，請確保網路連接\n然後按OK來更新許可證。</string>
+    <string name="license_fail">認證失敗</string>
+    <string name="license_server_err">伺服器錯誤，請再次嘗試。</string>
+    <string name="msgbox_btn_no">否</string>
+    <string name="msgbox_btn_ok">OK</string>
+    <string name="msgbox_btn_thanks">致謝…</string>
+    <string name="msgbox_btn_yes">是</string>
+    <string name="preference_custom_option">自定義選項</string>
+    <string name="preference_force_update">強制整理屏幕</string>
+    <string name="preference_multi_draw_thread">多執行緒繪圖</string>
+    <string name="preference_output_log">輸出調試日誌</string>
+    <string name="preference_remember_last_path">記住最後使用的路徑</string>
+    <string name="preference_title">設定</string>
+    <string name="preference_use_opengl">使用OpenGL(不穩定)</string>
+    <string name="reactive">重新激活</string>
+    <string name="recheck_network">請檢查網路連接並再次嘗試。</string>
+    <string name="retry">重試</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sysmenu_about">關於</string>
+    <string name="sysmenu_exit">退出</string>
+    <string name="sysmenu_gamemenu">遊戲選單</string>
+    <string name="sysmenu_globaloption">總設定</string>
+    <string name="sysmenu_option">---</string>
+    <string name="usage_text">拷貝遊戲檔案到SD卡或者設備空間，\n選擇data.xp3或xxx.exe\n登陸bbs.avgfun.net來獲得幫助。</string>
+    <string name="usage_title">使用方法</string>
+    <string name="use_last_path">使用上次的路徑：</string>
+</resources>

@@ -1,0 +1,110 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+
+    namespace "org.tvp.kirikiri2"
+
+    compileSdk 35
+
+
+    defaultConfig {
+
+        applicationId "org.tvp.kirikiri2"
+
+        minSdk 21
+
+        targetSdk 35
+
+        versionCode 70
+
+        versionName "1.4.1.avn"
+
+    }
+
+
+    buildTypes {
+
+        release {
+
+            minifyEnabled false
+
+            proguardFiles getDefaultProguardFile(
+                    'proguard-android-optimize.txt'
+            ),
+                    'proguard-rules.pro'
+
+        }
+
+    }
+
+
+    compileOptions {
+
+        sourceCompatibility JavaVersion.VERSION_17
+
+        targetCompatibility JavaVersion.VERSION_17
+
+    }
+
+
+    lint {
+
+        abortOnError false
+
+    }
+
+
+    packagingOptions {
+
+        resources {
+
+            excludes += [
+                    'META-INF/DEPENDENCIES',
+                    'META-INF/LICENSE',
+                    'META-INF/NOTICE'
+            ]
+
+        }
+
+    }
+
+}
+
+
+/*
+ * 旧项目 R.class 冲突修复
+ */
+tasks.configureEach { task ->
+
+    if (task.name == "bundleDebugClassesToCompileJar") {
+
+        task.enabled = false
+
+    }
+
+}
+
+
+
+dependencies {
+
+
+    implementation fileTree(
+            dir: 'libs',
+            include: ['*.jar']
+    )
+
+
+    // 暂时保留 Support Library
+    // 第二阶段再迁移 AndroidX
+    implementation 'com.android.support:support-v4:28.0.0'
+
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+
+
+    implementation 'com.loopj.android:android-async-http:1.4.11'
+
+
+}

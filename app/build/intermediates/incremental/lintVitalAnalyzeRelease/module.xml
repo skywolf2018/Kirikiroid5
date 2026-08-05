@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\Administrator\Desktop\AYC3\Kirikiroid5\AYC3\app"
+    name=":app"
+    type="APP"
+    maven="Kirikiroid2:app:unspecified"
+    agpVersion="8.10.1"
+    buildFolder="build"
+    bootClassPath="F:\jdk17\platforms\android-35\android.jar;F:\jdk17\build-tools\35.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-35"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kirikiroid2</string>
+    <string name="sysmenu_gamemenu">ゲームメニュー</string>
+    <string name="sysmenu_about">バージョン情報</string>
+    <string name="sysmenu_option">---</string>
+    <string name="sysmenu_globaloption">全体設定</string>
+    <string name="sysmenu_exit">終了</string>
+    <string name="msgbox_btn_ok">OK</string>
+    <string name="msgbox_btn_yes">はい</string>
+    <string name="msgbox_btn_no">いいえ</string>
+    <string name="msgbox_btn_thanks">ありがとう…</string>
+    <string name="preference_title">設定</string>
+    <string name="preference_use_opengl">OpenGL(不安定)を使用いて</string>
+    <string name="preference_force_update">スクリーンを強制更新する</string>
+    <string name="preference_output_log">デーバグログを出力する</string>
+    <string name="preference_remember_last_path">最後のパスを使用する</string>
+    <string name="preference_multi_draw_thread">描画スレッドを分割する</string>
+    <string name="preference_custom_option">カスタムオプション</string>
+    <string name="license_fail">認証が失敗しました</string>
+    <string name="license">認証</string>
+    <string name="reactive">再認証</string>
+    <string name="first_active">このアプリは認証されていません。ライセンスを\n更新するため、ネットの接続を確認しOKを押してください。</string>
+    <string name="license_expired">このアプリのライセンスの期限が切れます。ライセンスを\n更新するため、ネットの接続を確認しOKを押してください。</string>
+    <string name="use_last_path">最後のパスを使用するか</string>
+    <string name="about_content">問題が発生した場合、このサイトを参照してサポートを求めてください。</string>
+    <string name="recheck_network">ネットをチェックしてもう一度お試しください。</string>
+    <string name="license_server_err">サーバーエラーが発生しました。もう一度お試しください。</string>
+    <string name="active_not_allow">このデバイスは認証できません。</string>
+    <string name="retry">再試行</string>
+    <string name="cancel">キャンセル</string>
+    <string name="license_data_damaged">ライセンスデータが破損しました。</string>
+    <string name="keep_screen_alive">常に画面を持て</string>
+    <string name="debug_mode">デーバグモード</string>
+    <string name="crash_report">クラッシュ報告</string>
+    <string name="crash_report_msg">クラッシュデータを検出するには、このアプリを改善するのを助けるためにデータ（%dファイル）をアップロードすることができますか？</string>
+    <string name="crash_report_sending">データをアップロード…</string>
+    <string name="filemenu_enter">選択します</string>
+    <string name="filemenu_delete">削除します</string>
+    <string name="filemenu_rename">ファイル名変更</string>
+    <string name="filemenu_setbg">Set As Background</string>
+    <string name="usage_title">Usage</string>
+    <string name="usage_text">Copy game data to your sdcard or device storage,\nlocate data.xp3 or xxx.exe\nVisit bbs.avgfun.net for help.</string>
+    <string name="ensure_delete">削除しますか？</string>
+</resources>

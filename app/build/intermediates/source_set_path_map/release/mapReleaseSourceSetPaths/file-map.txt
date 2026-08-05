@@ -1,0 +1,11 @@
+org.tvp.kirikiri2.app-pngs-0 C:\Users\Administrator\Desktop\AYC3\Kirikiroid5\AYC3\app\build\generated\res\pngs\release
+org.tvp.kirikiri2.app-resValues-1 C:\Users\Administrator\Desktop\AYC3\Kirikiroid5\AYC3\app\build\generated\res\resValues\release
+org.tvp.kirikiri2.app-packageReleaseResources-2 C:\Users\Administrator\Desktop\AYC3\Kirikiroid5\AYC3\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+org.tvp.kirikiri2.app-packageReleaseResources-3 C:\Users\Administrator\Desktop\AYC3\Kirikiroid5\AYC3\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+org.tvp.kirikiri2.app-release-4 C:\Users\Administrator\Desktop\AYC3\Kirikiroid5\AYC3\app\build\intermediates\merged_res\release\mergeReleaseResources
+org.tvp.kirikiri2.app-main-5 C:\Users\Administrator\Desktop\AYC3\Kirikiroid5\AYC3\app\src\main\res
+org.tvp.kirikiri2.app-release-6 C:\Users\Administrator\Desktop\AYC3\Kirikiroid5\AYC3\app\src\release\res
+org.tvp.kirikiri2.app-appcompat-v7-28.0.0-7 D:\GradleCache\caches\9.6.1\transforms\b4cf7222b3cd5ea6579651e968dced58\transformed\appcompat-v7-28.0.0\res
+org.tvp.kirikiri2.app-support-media-compat-28.0.0-8 D:\GradleCache\caches\9.6.1\transforms\c29e5af20b429962495e6e7dc5086bd2\transformed\support-media-compat-28.0.0\res
+org.tvp.kirikiri2.app-support-compat-28.0.0-9 D:\GradleCache\caches\9.6.1\transforms\eafdce5ed06dd94a12ee6ee1cd143f7c\transformed\support-compat-28.0.0\res
+org.tvp.kirikiri2.app-coordinatorlayout-28.0.0-10 D:\GradleCache\caches\9.6.1\transforms\ece0e934d6b5491ad48d078182f5f3bb\transformed\coordinatorlayout-28.0.0\res
